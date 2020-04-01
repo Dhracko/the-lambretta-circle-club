@@ -1,35 +1,121 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# The Lambretta Circle
 
-Welcome USER_NAME,
+---
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+## Aim of the site
 
-## Gitpod Reminders
+The Lambretta Circle is more than just a website, where likeminded enthusiasts of lambretta owners
+can find all the imformation about their local club and social events.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+With the easy and intuitive navigation menu, the user can find themself inmerse in a world of Lambrettas to either find information about the club or social events. Where they can submit their interest to join.
 
-`python3 -m http.server`
+---
 
-A blue button should appear to click: *Make Public*,
+## UX
 
-Another blue button should appear to click: *Open Browser*.
+This is a website where the user can find information about a Gloucestershire lambretta social club.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+* The visitors can submit their details to join the club.
+* The visitors can see a gallery of photos about Lambrettas.
+* The visitors can find out where will be the future social events.
 
-A blue button should appear to click: *Make Public*,
+In order to achieve this the client wanted a website which meets the following criteria:
 
-Another blue button should appear to click: *Open Browser*.
+1. A maximum 3 pages long website.
+2. Plain simple colors theme with blue and white feel.
+3. Small amount of photos displaying Lambrettas.
+4. A couple of comments from members about the club and the social events organised in the past.
+5. A form where the visitors can submit their details and comments to join the club as members.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+---
 
-## Updates Since The Instructional Video
+## Client Stories
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+"A visitor wanted to see photos of other lambrettas in the club".
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+"A visitor wanted to find out more information about the social events."
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+"An visitor wanted links to the different social media."
 
---------
+"Another visitor wanted to read about the experience of other users."
 
-Happy coding!
+---
+
+## Wireframes Mockups:
+
+### Desktop
+
+<div style="text-align:center;">
+<img src="https://i.ibb.co/Wt4HjVG/the-lambretta-circle-desktop.png"></img>
+</div>
+
+<br>
+
+### Tablet
+
+<div style="text-align:center;">
+<img src="https://i.ibb.co/Hpjw5Lq/the-lambretta-circle-tablet.png"></img>
+</div>
+
+<br>
+
+### Mobile
+
+<div style="text-align:center;">
+<img src="https://i.ibb.co/jWRc70B/the-lambretta-circle-phone.png"></img><br>
+</div>
+---
+
+## Features
+
+### - About Use
+
+What is the club about and what do we meet for.
+
+### - Gallery 
+
+A showdown of images of Lambrettas
+
+### - Members Experience 
+
+A couple of members comments about the club and their experience in social events.
+
+### - Contact Form.
+
+A form where the visitor can submit their details and possible comment about the website or interest to join the club
+
+
+---
+
+## Future Goals
+
+* The introduction of another page where members can post their own images and comments of social events they have taken part, either with the club or a different organiser.
+
+---
+
+## Technology Used
+
+* HTML & CSS programming languages
+* [Bootstrap](https://getbootstrap.com/) - to easily adapt the website to be responsive for all users
+* [Google Fonts](https://fonts.google.com/) - Quicksilver & Roboto Styles
+* [Font Awesome](https://fontawesome.com/) - Social Media Logos
+* [GIT](https://git-scm.com/) - Version Control
+* [GitHub](https://github.com/) - to host the repositories for this project and the live website preview
+---
+
+## Testing
+
+### Issues and resolutions
+
+---
+
+## Deployment
+
+## Credits
+
+### Content
+
+### Acknowledgements
+
+## Disclaimer
+Please note the content and images on this website are for educational purposes only.
