@@ -70,19 +70,19 @@ In order to achieve this the client wanted a website which meets the following c
 
 ### - About Use
 
-What is the club about and what do we meet for.
-
-### - Gallery 
-
-A showdown of images of Lambrettas
+* What is the club about and what do we meet for.
 
 ### - Members Experience 
 
-A couple of members comments about the club and their experience in social events.
+* A couple of members comments about the club and their experience in social events.
+
+### - Gallery 
+
+* A showdown of images of Lambrettas
 
 ### - Contact Form.
 
-A form where the visitor can submit their details and possible comment about the website or interest to join the club
+* A form where the visitor can submit their details and possible comment about the website or interest to join the club
 
 
 ---
@@ -90,6 +90,8 @@ A form where the visitor can submit their details and possible comment about the
 ## Future Goals
 
 * The introduction of another page where members can post their own images and comments of social events they have taken part, either with the club or a different organiser.
+
+* The implementation of a drop down menu from a burger icon fixed at the top.
 
 ---
 
