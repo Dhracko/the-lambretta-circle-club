@@ -19,7 +19,7 @@ This is a website where the user can find information about a Gloucestershire la
 * The visitors can see a gallery of photos about Lambrettas.
 * The visitors can find out where will be the future social events.
 
-In order to achieve this the client wanted a website which meets the following criteria:
+In order to achieve this, the client wanted a website which meets the following criteria:
 
 1. A maximum 3 pages long website.
 2. Plain simple colors theme with blue and white feel.
