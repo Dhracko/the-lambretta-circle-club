@@ -31,15 +31,52 @@ In order to achieve this, the client wanted a website which meets the following 
 
 ## Client Stories
 
+"Another visitor wanted to read about the experience of other users."
+
 "A visitor wanted to see photos of other lambrettas in the club".
 
-"A visitor wanted to find out more information about the social events."
+"A visitor wanted to find out more information about the social events by submiting a form."
 
 "An visitor wanted links to the different social media."
 
-"Another visitor wanted to read about the experience of other users."
-
 ---
+
+## Features
+
+### - A slide of photos
+
+* Three Images slide on a carousel style at the top of the website
+<div style="text-align:center;">
+<img src="https://i.ibb.co/r75HNZY/carousel-slide.png"></img>
+</div>
+
+### - Members Experience 
+
+* A couple of members comments about the club and their experience in social events.
+<div style="text-align:center;">
+<img src="https://i.ibb.co/Rv4MyLP/members-comment.png"></img>
+</div>
+
+### - Gallery 
+
+* A showdown of images of Lambrettas
+<div style="text-align:center;">
+<img src="https://i.ibb.co/k69MSCT/gallery.png"></img>
+</div>
+
+### - Contact Form.
+
+* A form where the visitor can submit their details and possible comment about the website or interest to join the club
+<div style="text-align:center;">
+<img src="https://i.ibb.co/jJDRYq6/contact-form.png"></img>
+</div>
+
+### - Address and Social Media links
+
+* The address and social media 
+<div style="text-align:center;">
+<img src="https://i.ibb.co/YR5fVZ7/address-section.png"></img>
+</div>
 
 ## Wireframes Mockups:
 
@@ -103,6 +140,7 @@ In order to achieve this, the client wanted a website which meets the following 
 * [Font Awesome](https://fontawesome.com/) - Social Media Logos
 * [GIT](https://git-scm.com/) - Version Control
 * [GitHub](https://github.com/) - to host the repositories for this project and the live website preview
+* [Balsamiq Wireframe](https://balsamiq.com/) - to create the Wireframes Mockups
 ---
 
 ## Testing
