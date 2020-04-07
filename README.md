@@ -46,36 +46,32 @@ In order to achieve this, the client wanted a website which meets the following 
 ### - A slide of photos
 
 * Three Images slide on a carousel style at the top of the website
-<div style="text-align:center;">
-<img src="https://i.ibb.co/r75HNZY/carousel-slide.png"></img>
-</div>
+
+![](wireframes/carousel-slide.png)
 
 ### - Members Experience 
 
 * A couple of members comments about the club and their experience in social events.
 
-![](./members-comment.png)
+![](wireframes/members-comment.png)
 
 ### - Gallery 
 
 * A showdown of images of Lambrettas
-<div style="text-align:center;">
-<img src="https://i.ibb.co/k69MSCT/gallery.png"></img>
-</div>
+
+![](wireframes/gallery.png)
 
 ### - Contact Form.
 
 * A form where the visitor can submit their details and possible comment about the website or interest to join the club
-<div style="text-align:center;">
-<img src="https://i.ibb.co/jJDRYq6/contact-form.png"></img>
-</div>
+
+![](wireframes/contact-form.png)
 
 ### - Address and Social Media links
 
 * The address and social media 
-<div style="text-align:center;">
-<img src="https://i.ibb.co/YR5fVZ7/address-section.png"></img>
-</div>
+
+![](wireframes/address-section.png)
 
 ## Wireframes Mockups:
 
