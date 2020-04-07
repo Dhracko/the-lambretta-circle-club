@@ -75,7 +75,7 @@ In order to achieve this, the client wanted a website which meets the following 
 
 ### - Burger dropdown menu
 
-* A burger style where a dropdown menu with 3 choices "Home", "about us", "contact". Links to be implemented in the future.
+* A burger style where a dropdown menu with 3 choices "Home", "Gallery", "About Us". Links to be implemented in the future.
 
 ![](wireframes/dropdown-menu.png)
 
