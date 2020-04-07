@@ -73,29 +73,30 @@ In order to achieve this, the client wanted a website which meets the following 
 
 ![](wireframes/address-section.png)
 
+### - Burger dropdown menu
+
+* A burger style where a dropdown menu with 3 choices "Home", "about us", "contact". Links to be implemented in the future.
+
+![](wireframes/dropdown-menu.png)
+
 ## Wireframes Mockups:
 
 ### Desktop
 
-<div style="text-align:center;">
-<img src="https://i.ibb.co/Wt4HjVG/the-lambretta-circle-desktop.png"></img>
-</div>
+![](wireframes/the-lambretta-circle-desktop.png)
 
 <br>
 
 ### Tablet
 
-<div style="text-align:center;">
-<img src="https://i.ibb.co/Hpjw5Lq/the-lambretta-circle-tablet.png"></img>
-</div>
+![](wireframes/the-lambretta-circle-tablet.png)
+
 
 <br>
 
 ### Mobile
 
-<div style="text-align:center;">
-<img src="https://i.ibb.co/jWRc70B/the-lambretta-circle-phone.png"></img><br>
-</div>
+![](wireframes/the-lambretta-circle-phone.png)
 
 ---
 
