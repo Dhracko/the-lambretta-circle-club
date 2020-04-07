@@ -53,9 +53,8 @@ In order to achieve this, the client wanted a website which meets the following 
 ### - Members Experience 
 
 * A couple of members comments about the club and their experience in social events.
-<div style="text-align:center;">
-<img src="https://i.ibb.co/Rv4MyLP/members-comment.png"></img>
-</div>
+
+![](./members-comment.png)
 
 ### - Gallery 
 
@@ -101,26 +100,6 @@ In order to achieve this, the client wanted a website which meets the following 
 <div style="text-align:center;">
 <img src="https://i.ibb.co/jWRc70B/the-lambretta-circle-phone.png"></img><br>
 </div>
----
-
-## Features
-
-### - About Use
-
-* What is the club about and what do we meet for.
-
-### - Members Experience 
-
-* A couple of members comments about the club and their experience in social events.
-
-### - Gallery 
-
-* A showdown of images of Lambrettas
-
-### - Contact Form.
-
-* A form where the visitor can submit their details and possible comment about the website or interest to join the club
-
 
 ---
 
@@ -136,7 +115,7 @@ In order to achieve this, the client wanted a website which meets the following 
 
 * HTML & CSS programming languages
 * [Bootstrap](https://getbootstrap.com/) - to easily adapt the website to be responsive for all users
-* [Google Fonts](https://fonts.google.com/) - Quicksilver & Roboto Styles
+* [Google Fonts](https://fonts.google.com/) - Chango and Mukta Styles
 * [Font Awesome](https://fontawesome.com/) - Social Media Logos
 * [GIT](https://git-scm.com/) - Version Control
 * [GitHub](https://github.com/) - to host the repositories for this project and the live website preview
