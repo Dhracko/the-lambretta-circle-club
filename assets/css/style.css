@@ -4,19 +4,23 @@
     background-color: #53b7ff;
 }
 
+.bg-blue {
+    background-color: #53b7ff;
+}
+
+
 /*      Top slider    */
 .carousel-inner {
     height: 400px;
     width: 100%;
-    padding: 0 20%;
-    background-color: #52b7ff;
+    padding: 0;
+    background-color: #53b7ff;
 }
 
 .carousel-inner .carousel-item{
     animation-name: lambretta-zoom;
     animation-duration: 10s;
     animation-fill-mode: forwards;
-    
     overflow: hidden;
     position: center;
 }
@@ -30,6 +34,11 @@
     }
 }
 
+.bg-blue {
+    background-color: #53b7ff;
+}
+
+
 /* background images */
 
 .fixed-bg-top {
@@ -39,6 +48,8 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  max-width: 100%;
+  height: auto;
 }
 
 .fixed-bg-middle {
