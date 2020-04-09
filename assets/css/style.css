@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Changa|Mukta&display=swap');
 
+.body {
+    background-color: #53b7ff;
+}
+
+/*      Top slider    */
 .carousel-inner {
     height: 400px;
     width: 100%;
@@ -23,4 +28,33 @@
     to {
         transform: scale(1.1)
     }
+}
+
+/* background images */
+
+.fixed-bg-top {
+  background-image: url("https://i.ibb.co/ccYKC8G/background-1.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fixed-bg-middle {
+  background-image: url("https://i.ibb.co/rt4R1qP/background-2.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fixed-bg-bottom {
+  background-image: url("https://i.ibb.co/sVBh0cs/background-3.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
