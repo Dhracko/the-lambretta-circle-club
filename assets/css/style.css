@@ -37,7 +37,19 @@
 .bg-blue {
     background-color: #53b7ff;
 }
+/* Title */
 
+.tl-opc {
+    background-color: transparent;
+}
+
+.tl-blue {
+    color: #53b7ff;
+    text-align: center;
+    font-family: Changa, sans-serif;
+    font-size: 100px;
+    text-decoration: underline;
+}
 
 /* background images */
 
