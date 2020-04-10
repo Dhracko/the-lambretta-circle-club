@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Changa|Mukta&display=swap');
 
 .body {
-    background-color: #53b7ff;
+    font-family: Changa, sans-serif;
+    color: #53b7ff;
 }
 
 .bg-blue {
@@ -80,4 +81,16 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+/* Members feedback */
+
+.fback {
+    height: 800px;
+    background-color:  #53b7ff;
+}
+
+.fback-1 {
+    height: 800px;
+    background-color:  #ff5353;
 }
