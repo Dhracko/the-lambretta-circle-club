@@ -106,7 +106,7 @@
 
 .quote-bg {
     max-height: 600px;
-    background-image: linear-gradient( to left,#53b7ff, #adddff) ;
+    background-image: linear-gradient( to left,#53b7ff, #adddff);
     text-align: center;
     min-height: 300px;
     margin: 0;
@@ -126,4 +126,19 @@
     .quote-style {
     font-size: 20px;
   }
+}
+
+/*   Gallery    */
+
+.gallery {
+    background-image: linear-gradient( to right,#53b7ff, #adddff);
+    height: auto;
+}
+
+.rounded {
+    padding: 5px;
+}
+
+.top {
+    position: top;
 }
