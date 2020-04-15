@@ -52,10 +52,22 @@
     text-decoration: underline;
 }
 
+@media screen and (min-width: 601px){
+    .tl-blue {
+        font-size: 100px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .tl-blue {
+        font-size: 60px;
+    }
+}
+
 /* background images */
 
 .fixed-bg-top {
-  background-image: url("https://i.ibb.co/ccYKC8G/background-1.jpg");
+  background-image: url("https://i.ibb.co/tCN9TVf/background-1.jpg");
   min-height: 500px;
   background-attachment: fixed;
   background-position: center;
@@ -66,7 +78,7 @@
 }
 
 .fixed-bg-middle {
-  background-image: url("https://i.ibb.co/rt4R1qP/background-2.jpg");
+  background-image: url("https://i.ibb.co/DCBq1kN/background-2.jpg");
   min-height: 500px;
   background-attachment: fixed;
   background-position: center;
@@ -75,7 +87,7 @@
 }
 
 .fixed-bg-bottom {
-  background-image: url("https://i.ibb.co/sVBh0cs/background-3.jpg");
+  background-image: url("https://i.ibb.co/34qN4nf/background-3.jpg");
   min-height: 500px;
   background-attachment: fixed;
   background-position: center;
@@ -85,12 +97,27 @@
 
 /* Members feedback */
 
-.fback {
-    height: 800px;
+.quote-bg {
+    max-height: 600px;
     background-color:  #53b7ff;
+    text-align: center;
+    min-height: 300px;
+    margin: 0;
 }
 
-.fback-1 {
-    height: 800px;
-    background-color:  #ff5353;
+.quote-style {
+    font-family: Mukta;
+}
+
+@media screen and (min-width: 601px) {
+    .quote-style {
+    font-size: 30px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+    .quote-style {
+    font-size: 20px;
+  }
+}
 }
