@@ -9,6 +9,12 @@
     background-color: #53b7ff;
 }
 
+#gradient {
+    height: 400px;
+    background-color:#53b7ff;
+    background-image: radial-gradient(blue,#fcfcfc, #53b7ff)
+}
+
 
 /*      Top slider    */
 .carousel-inner {
@@ -40,16 +46,17 @@
 }
 /* Title */
 
-.tl-opc {
+.title-opacy {
     background-color: transparent;
 }
 
-.tl-blue {
+.title-blue {
     color: #53b7ff;
     text-align: center;
     font-family: Changa, sans-serif;
     font-size: 100px;
     text-decoration: underline;
+    text-shadow:6px 6px 8px rgb(49, 36, 83);
 }
 
 @media screen and (min-width: 601px){
@@ -99,7 +106,7 @@
 
 .quote-bg {
     max-height: 600px;
-    background-color:  #53b7ff;
+    background-image: linear-gradient( to left,#53b7ff, #adddff) ;
     text-align: center;
     min-height: 300px;
     margin: 0;
@@ -119,5 +126,4 @@
     .quote-style {
     font-size: 20px;
   }
-}
 }
