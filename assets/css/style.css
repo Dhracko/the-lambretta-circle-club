@@ -60,14 +60,14 @@
 }
 
 @media screen and (min-width: 601px){
-    .tl-blue {
+    .title-blue {
         font-size: 100px;
     }
 }
 
 @media screen and (max-width: 600px){
-    .tl-blue {
-        font-size: 60px;
+    .title-blue {
+        font-size: 50px;
     }
 }
 
@@ -133,12 +133,15 @@
 .gallery {
     background-image: linear-gradient( to right,#53b7ff, #adddff);
     height: auto;
+    box-sizing: border-box;
 }
 
-.rounded {
-    padding: 5px;
+.fixed-bg-middle img {
+    border-style: ridge;
+    padding: 10px;
 }
 
-.top {
-    position: top;
+.img-fluid {
+    box-shadow: 5px 5px 8px 5px #53b7ff;
+    border-style: ridge;
 }
