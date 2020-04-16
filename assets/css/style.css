@@ -44,7 +44,8 @@
 .bg-blue {
     background-color: #53b7ff;
 }
-/* Title */
+
+/*          Title           */
 
 .title-opacy {
     background-color: transparent;
@@ -106,7 +107,7 @@
 
 .quote-bg {
     max-height: 600px;
-    background-image: linear-gradient( to left,#53b7ff, #adddff);
+    background-image: linear-gradient( to right,#53b7ff, #adddff);
     text-align: center;
     min-height: 300px;
     margin: 0;
