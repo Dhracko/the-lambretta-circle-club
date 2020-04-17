@@ -1,13 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Changa|Mukta&display=swap');
 
 .body {
-    font-family: Changa, sans-serif;
+    font-family: "Changa", sans-serif;
     color: #53b7ff;
 }
 
-.bg-blue {
-    background-color: #53b7ff;
-}
+/*      Top slider    */
 
 #gradient {
     height: 400px;
@@ -15,8 +13,6 @@
     background-image: radial-gradient(blue,#fcfcfc, #53b7ff)
 }
 
-
-/*      Top slider    */
 .carousel-inner {
     height: 400px;
     width: 100%;
@@ -45,6 +41,7 @@
     background-color: #53b7ff;
 }
 
+
 /*          Title           */
 
 .title-opacy {
@@ -54,7 +51,7 @@
 .title-blue {
     color: #53b7ff;
     text-align: center;
-    font-family: Changa, sans-serif;
+    font-family: "Changa", sans-serif;
     font-size: 100px;
     text-decoration: underline;
     text-shadow:6px 6px 8px rgb(49, 36, 83);
@@ -114,7 +111,7 @@
 }
 
 .quote-style {
-    font-family: Mukta;
+    font-family: "Mukta", sans-serif;
 }
 
 @media screen and (min-width: 601px) {
@@ -146,3 +143,26 @@
     box-shadow: 5px 5px 8px 5px #53b7ff;
     border-style: ridge;
 }
+
+/*   Form    */
+
+.form-bg {
+    background-image: linear-gradient( to right,#53b7ff, #adddff);
+    height: fit-content;
+    font-family: "Mukta", sans-serif;
+    text-align: center;
+}
+
+.outer-text {
+    padding: 50px;
+    height: fit-content;
+}
+
+.inner-text {
+    max-width: auto;
+    height: 200px;
+}
+
+/* .inner-text p {
+    padding-top: 25%
+} */
