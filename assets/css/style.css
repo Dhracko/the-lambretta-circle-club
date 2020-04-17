@@ -154,15 +154,12 @@
 }
 
 .outer-text {
-    padding: 50px;
-    height: fit-content;
+    padding-top: 50px;
 }
 
 .inner-text {
-    max-width: auto;
-    height: 200px;
+    max-width: 100%;
+    height: fit-content;
+    margin: auto 0px;
 }
 
-/* .inner-text p {
-    padding-top: 25%
-} */
