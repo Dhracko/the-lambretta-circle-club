@@ -113,7 +113,7 @@ In order to achieve this, the client wanted a website which meets the following 
 * HTML & CSS programming languages
 * [Bootstrap](https://getbootstrap.com/) - to easily adapt the website to be responsive for all users
 * [Google Fonts](https://fonts.google.com/) - Chango and Mukta Styles
-* [Font Awesome](https://fontawesome.com/) - Social Media Logos
+* [Font Awesome](https://fontawesome.com/) - Social Media Logos version 5.0.0
 * [GIT](https://git-scm.com/) - Version Control
 * [GitHub](https://github.com/) - to host the repositories for this project and the live website preview
 * [Balsamiq Wireframe](https://balsamiq.com/) - to create the Wireframes Mockups
