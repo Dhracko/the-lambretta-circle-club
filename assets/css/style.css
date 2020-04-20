@@ -5,6 +5,10 @@
     color: #53b7ff;
 }
 
+.p-4 {
+    padding: 0.5rem!important;
+}
+
 /*      Top slider    */
 
 #gradient {
@@ -22,7 +26,7 @@
 
 .carousel-inner .carousel-item{
     animation-name: lambretta-zoom;
-    animation-duration: 10s;
+    animation-duration: 5s;
     animation-fill-mode: forwards;
     overflow: hidden;
     position: center;
