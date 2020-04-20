@@ -123,6 +123,17 @@ In order to achieve this, the client wanted a website which meets the following 
 
 ### Issues and resolutions
 
+During my first conversation with my mentor he pointed out about the README.md updates. Wireframes placed in the github, divided wireframes for each individual feature. Also the version library of the techonoly used.
+
+During the creation of the different feature i came across some issues:
+
+* After the creation of the carousel slider at the top, the images expanded 0.1% which meant that after the first image the second would revert to the original size container which made an abrupt jump on the size. The solution was adding 2 containers on top of the initial so the 0.1% on each side would be cover, also gave a gradient look so it wouldn't look like 2 container placed on top of the initial.
+
+* During the second feature "members fedback" I couldn't center the 2 icons "Lambrettas" to the center of the text, which was easily resolve at the end with a top padding to bring it down.
+
+* The initial size of the lambretta images where too big and having to customized each one using idividual classes would have been too much coding resulting in a confusing ccs file so instead i apply individual heigh and width in the html code. Also while my initial idiea wasn't of a border and shadow for the images, the implementation of them makes the mobile version more attractive.
+
+* On the last feature "Form", I though it needed a sense of aproach to the visitor, that it didn't have any attractive  for the visitor to leave the details or comments so i created a more small title and a chane of lettering. Also while creating the form using bootstrap on the last section about leaving a comment, the bootstrap code didn't fit the the uniformity of the rest of the form as it was creting the box under the "comment" text instead of side to it, so I had to change the original bootstrap code.
 ---
 
 ## Deployment
