@@ -53,50 +53,50 @@ In order to achieve this, the client wanted a website which meets the following 
 
 * A couple of members comments about the club and their experience in social events.
 
-![](https://bd10d2e3-24e6-4a0c-90a4-7c34c64e5c1c.ws-eu01.gitpod.io/files/download/?id=4e9f794b-9926-4ee4-96f5-95cc82639618)
+![](https://raw.githubusercontent.com/Dhracko/the-lambretta-circle-club/master/wireframes/members-comment.png)
 
 ### - Gallery 
 
 * A showdown of images of Lambrettas
 
-![](wireframes/gallery.png)
+![](https://raw.githubusercontent.com/Dhracko/the-lambretta-circle-club/master/wireframes/gallery.png)
 
 ### - Contact Form.
 
 * A form where the visitor can submit their details and possible comment about the website or interest to join the club
 
-![](wireframes/contact-form.png)
+![](https://raw.githubusercontent.com/Dhracko/the-lambretta-circle-club/master/wireframes/contact-form.png)
 
 ### - Address and Social Media links
 
 * The address and social media 
 
-![](wireframes/address-section.png)
+![](https://raw.githubusercontent.com/Dhracko/the-lambretta-circle-club/master/wireframes/address-section.png)
 
 ### - Burger dropdown menu
 
 * A burger style where a dropdown menu with 3 choices "Home", "Gallery", "About Us". Links to be implemented in the future.
 
-![](wireframes/dropdown-menu.png)
+![](https://raw.githubusercontent.com/Dhracko/the-lambretta-circle-club/master/wireframes/dropdown-menu.png)
 
 ## Wireframes Mockups:
 
 ### Desktop
 
-![](wireframes/the-lambretta-circle-desktop.png)
+![](https://raw.githubusercontent.com/Dhracko/the-lambretta-circle-club/master/wireframes/the-lambretta-circle-desktop.png)
 
 <br>
 
 ### Tablet
 
-![](wireframes/the-lambretta-circle-tablet.png)
+![](https://raw.githubusercontent.com/Dhracko/the-lambretta-circle-club/master/wireframes/the-lambretta-circle-tablet.png)
 
 
 <br>
 
 ### Mobile
 
-![](wireframes/the-lambretta-circle-phone.png)
+![](https://raw.githubusercontent.com/Dhracko/the-lambretta-circle-club/master/wireframes/the-lambretta-circle-phone.png)
 
 ---
 
@@ -111,7 +111,7 @@ In order to achieve this, the client wanted a website which meets the following 
 ## Technology Used
 
 * HTML & CSS programming languages
-* [Bootstrap](https://getbootstrap.com/) - to easily adapt the website to be responsive for all users
+* [Bootstrap](https://getbootstrap.com/) - to easily adapt the website to be responsive for all users. Version 4.4.1
 * [Google Fonts](https://fonts.google.com/) - Chango and Mukta Styles
 * [Font Awesome](https://fontawesome.com/) - Social Media Logos version 5.0.0
 * [GIT](https://git-scm.com/) - Version Control
@@ -135,7 +135,7 @@ During the creation of the different feature i came across some issues:
 
 * On the last feature "Form", I though it needed a sense of aproach to the visitor, that it didn't have any attractive  for the visitor to leave the details or comments so i created a more small title and a chane of lettering. Also while creating the form using bootstrap on the last section about leaving a comment, the bootstrap code didn't fit the the uniformity of the rest of the form as it was creting the box under the "comment" text instead of side to it, so I had to change the original bootstrap code.
 
-* Once i code in the http links for the social icons, the icons turn blue instead of the the black intended. 
+* When I coded the http links for the social icons, the icons turn blue instead of the the black as intended. This was easily rectified by adding color:black to the icons class.
 ---
 
 ## Deployment
