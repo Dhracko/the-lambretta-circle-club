@@ -47,13 +47,13 @@ In order to achieve this, the client wanted a website which meets the following 
 
 * Three Images slide on a carousel style at the top of the website
 
-![](wireframes/carousel-slide.png)
+![](https://raw.githubusercontent.com/Dhracko/the-lambretta-circle-club/master/wireframes/carousel-slide.png)
 
 ### - Members Experience 
 
 * A couple of members comments about the club and their experience in social events.
 
-![](wireframes/members-comment.png)
+![](https://bd10d2e3-24e6-4a0c-90a4-7c34c64e5c1c.ws-eu01.gitpod.io/files/download/?id=4e9f794b-9926-4ee4-96f5-95cc82639618)
 
 ### - Gallery 
 
@@ -134,6 +134,8 @@ During the creation of the different feature i came across some issues:
 * The initial size of the lambretta images where too big and having to customized each one using idividual classes would have been too much coding resulting in a confusing ccs file so instead i apply individual heigh and width in the html code. Also while my initial idiea wasn't of a border and shadow for the images, the implementation of them makes the mobile version more attractive.
 
 * On the last feature "Form", I though it needed a sense of aproach to the visitor, that it didn't have any attractive  for the visitor to leave the details or comments so i created a more small title and a chane of lettering. Also while creating the form using bootstrap on the last section about leaving a comment, the bootstrap code didn't fit the the uniformity of the rest of the form as it was creting the box under the "comment" text instead of side to it, so I had to change the original bootstrap code.
+
+* Once i code in the http links for the social icons, the icons turn blue instead of the the black intended. 
 ---
 
 ## Deployment
@@ -141,8 +143,26 @@ During the creation of the different feature i came across some issues:
 ## Credits
 
 ### Content
+All the images have been obtained from different royalty free images:
+
+* [flickr](https://www.flickr.com/)
+
+* [freeimages](https://www.freeimages.com/photo/15-vespas-1422685)
+
+* [pixabay](https://pixabay.com/photos/motorcycles-wasp-lambretta-san-leo-775453/), (https://pixabay.com/photos/lambretta-wasp-moto-2003276/)
+
+* [Pexels](https://www.pexels.com/photo/architecture-automotive-building-cafe-221299/)
+
 
 ### Acknowledgements
+
+* I would like to thank my mentor (rohit_mentor) for his invaluable feed back, help and advice.
+
+* [Simen Daehlin](https://github.com/Eventyret) for the fatastic Unicorn Chrome add-on.
+
+* [Richard Wells](https://github.com/D0nni387) 
+
+
 
 ## Disclaimer
 Please note the content and images on this website are for educational purposes only.
