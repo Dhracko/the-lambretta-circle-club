@@ -7,7 +7,7 @@
 
 /*      Top slider    */
 
-#gradient {
+.header-gradient {
     height: 400px;
     background-color:#53b7ff;
     background-image: radial-gradient(blue,#fcfcfc, #53b7ff)
@@ -128,10 +128,11 @@
 
 /*   Gallery    */
 
-.gallery {
+.gallery-images {
     background-image: linear-gradient( to right,#53b7ff, #adddff);
     height: auto;
     box-sizing: border-box;
+    padding: 20px;
 }
 
 .fixed-bg-middle img {
@@ -144,18 +145,38 @@
     border-style: ridge;
 }
 
+.gallery-blue-img{
+    width: 300px;
+}
+
+.gallery-green-img {
+    width: 390px;
+}
+
+.gallery-sidecar-img {
+    width: 300px;
+}
+
+.gallery-social-img {
+    width: 400px;
+}
+
+.gallery-beach-img {
+    width: 250px;
+}
+
 /*   Form    */
 
 .form-bg {
     background-image: linear-gradient( to right,#53b7ff, #adddff);
-    height: 550px;
+    height: fit-content;
     font-family: "Mukta", sans-serif;
     text-align: center;
     font-size: 20px;
 }
 
 .outer-text {
-    padding-top: 50px;
+    padding: 3rem;
 }
 
 .inner-text {
@@ -172,7 +193,6 @@
 
 .footer-bg {
     background-image: linear-gradient( to right,#44a0e2, #92bddb);
-    height: 250px;
     padding-top: 10px;
 }
 
