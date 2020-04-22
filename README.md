@@ -1,6 +1,4 @@
-[](https://link)
-
-
+![](https://raw.githubusercontent.com/Dhracko/the-lambretta-circle-club/master/assets/images/website-mockup-generator.png)
 
 # The Lambretta Circle
 
@@ -8,8 +6,8 @@
 
 ## Aim of the site
 
-The Lambretta Circle is more than just a website, where likeminded enthusiasts of lambretta owners
-can find all the imformation about their local club and social events.
+The Lambretta Circle Club is more than just a website, where likeminded enthusiasts of lambretta owners
+can find all the imformation about their local club and social events in Gloucestershire.
 
 With the easy and intuitive navigation menu, the user can find themself inmerse in a world of Lambrettas to either find information about the club or social events. Where they can submit their interest to join.
 
