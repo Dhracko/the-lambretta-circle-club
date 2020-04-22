@@ -25,7 +25,6 @@
     animation-duration: 5s;
     animation-fill-mode: forwards;
     overflow: hidden;
-    position: center;
 }
 
 @keyframes lambretta-zoom {
