@@ -140,6 +140,8 @@ During the creation of the different feature i came across some issues:
 
 ## Deployment
 
+In order to deploy the 
+
 ## Credits
 
 ### Content
@@ -156,7 +158,7 @@ All the images have been obtained from different royalty free images:
 
 ### Acknowledgements
 
-* I would like to thank my mentor (rohit_mentor) for his invaluable feed back, help and advice.
+* I would like to thank Rohit Sharma (my mentor) for his invaluable feed back, help and advice.
 
 * [Simen Daehlin](https://github.com/Eventyret) for the fatastic Unicorn Chrome add-on.
 
