@@ -123,6 +123,22 @@ In order to achieve this, the client wanted a website which meets the following 
 
 ## Testing
 
+Initially i was using the evelopers tools from Google Chrome to make sure the colors and the code was the correct one, making sure the project look good on mobile devices first and build up from there.
+
+I also used the tools below:
+
+* [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB) to help to locate the overflow and position of the diferent containers.
+
+* [W3C Markup Validation Service](https://validator.w3.org/) to check the markup validity of the HTML.
+
+* [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) to validate CSS file.
+
+Finally i tested in different browser:
+* Google Chrome Version 81.0.4044.122 (Official Build) (64-bit)
+* Firefox Version 75.0 (64-bit)
+* Microsoft Edge Version 44.18362.449.0
+* Opera Version 68.0.3618.46
+
 ### Issues and resolutions
 
 During my first conversation with my mentor he pointed out about the README.md updates. Wireframes placed in the github, divided wireframes for each individual feature. Also the version library of the techonoly used.
@@ -138,6 +154,8 @@ During the creation of the different feature i came across some issues:
 * On the last feature "Form", I though it needed a sense of aproach to the visitor, that it didn't have any attractive  for the visitor to leave the details or comments so i created a more small title and a chane of lettering. Also while creating the form using bootstrap on the last section about leaving a comment, the bootstrap code didn't fit the the uniformity of the rest of the form as it was creting the box under the "comment" text instead of side to it, so I had to change the original bootstrap code.
 
 * When I coded the http links for the social icons, the icons turn blue instead of the the black as intended. This was easily rectified by adding color:black to the icons class.
+
+* Finally during the use of the validation the W3C markup, I found there were a problem with the section and the missing heading on each section. I added a heading to each section that was missing one.
 ---
 
 ## Deployment
