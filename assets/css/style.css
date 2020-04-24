@@ -152,6 +152,11 @@
     padding: 20px;
 }
 
+.gallery-center-heading {
+    text-align: center;
+    font-family: "Mutka", sans-serif;
+}
+
 .fixed-bg-middle img {
     border-style: ridge;
     padding: 10px;
@@ -193,21 +198,13 @@
 }
 
 .outer-text {
-    padding: 3rem;
+    padding: 2.5rem;
 }
 
 .inner-text {
     max-width: 100%;
     height: fit-content;
     margin: auto 0px;
-}
-
-.btn-righside {
-    text-align: right;
-}
-
-.justify-content-center {
-    align-content: center;
 }
 
 /*   Footer/Address/Social Links    */
