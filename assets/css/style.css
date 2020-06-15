@@ -87,6 +87,18 @@
   height: auto;
 }
 
+.background-gradient-left {
+    background: linear-gradient( to left, rgba(14, 11, 175, 0.5), rgb(230, 231, 255));
+    opacity: 0.5;
+    filter: blur(10px);
+}
+
+.background-gradient-right {
+    background: linear-gradient( to right, rgba(76, 0, 255, 0.158), rgb(230, 231, 255));
+    opacity: 0.5;
+    filter: blur(10px);
+}
+
 .fixed-bg-middle {
   background-image: url("https://i.ibb.co/DCBq1kN/background-2.jpg");
   min-height: 500px;
@@ -210,7 +222,7 @@
 /*   Footer/Address/Social Links    */
 
 .footer-bg {
-    background-image: linear-gradient( to right,#44a0e2, #92bddb);
+    background-image: linear-gradient( to left,#0c8eeb, #92bddb);
     padding-top: 10px;
 }
 
